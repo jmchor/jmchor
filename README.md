@@ -10,7 +10,7 @@
 
 I (he/him) am a **developer-in-progress** - I found my passion in coding and I'm working on my knowledge base of MERN stack web applications.
 
-Currently I'm mostly focused on study projects (like Taskmeister or Grave), but as a *learning-by-tweaking* type of person I like to write and test code in various environments (like [these](#coding-projects))
+Currently I'm mostly focused on study projects but as a *learning-by-tweaking* type of person I like to write and test code in various environments (like [these](#coding-projects))
 
 ## Coding projects
 
@@ -33,6 +33,14 @@ Currently I'm mostly focused on study projects (like Taskmeister or Grave), but 
     <tr>
       <th span="row"><a href="https://github.com/jmchor/pwd_gen">pwdgnrtr</a></th>
       <td>A SPA for password generation</td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/jmchor/jmchor.dev">jmchor.dev</a></th>
+      <td>My personal website - written in TypeScript, hosted on Linode</td>
+    </tr>
+    <tr>
+      <th span="row"><a href="https://github.com/jmchor/scripts">Helper Scripts</a></th>
+      <td>Scripts I tinker with to help me quickly set up projects</td>
     </tr>
   </tbody>
 </table>
