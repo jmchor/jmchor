@@ -16,7 +16,7 @@ Currently I'm mostly focused on study projects (like Taskmeister or Grave), but 
 
 ### Most recent work
 
-<table width="100%">
+<table align="center" width="100%">
   <thead>
     <th span="col">Project </th>
     <th span="col">Description</th>
