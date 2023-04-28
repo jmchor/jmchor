@@ -20,6 +20,7 @@ Currently I'm mostly focused on study projects but as a *learning-by-tweaking* t
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmchor&langs_count=5&show_icons=true&locale=en&theme=transparent" alt="7oSkaaa" height="230px"/>
 <br/>
 </p>
+
 ## Coding projects
 
 ### Most recent work
