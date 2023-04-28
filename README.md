@@ -14,13 +14,6 @@ I (he/him) am a **developer-in-progress** - I found my passion in coding and I'm
 
 Currently I'm mostly focused on study projects but as a *learning-by-tweaking* type of person I like to write and test code in various environments (like [these](#coding-projects))
 
-<p>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="jmchor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmchor&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/></a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmchor&langs_count=5&show_icons=true&locale=en&theme=transparent" alt="7oSkaaa" height="230px"/>
-<br/>
-</p>
-
 ## Coding projects
 
 ### Most recent work
@@ -53,3 +46,10 @@ Currently I'm mostly focused on study projects but as a *learning-by-tweaking* t
     </tr>
   </tbody>
 </table>
+
+<p>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="jmchor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmchor&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmchor&langs_count=5&show_icons=true&locale=en&theme=transparent" alt="7oSkaaa" height="230px"/>
+<br/>
+</p>
