@@ -14,6 +14,8 @@ I (he/him) am a **developer-in-progress** - I found my passion in coding and I'm
 
 Currently I'm mostly focused on study projects but as a *learning-by-tweaking* type of person I like to write and test code in various environments (like [these](#coding-projects))
 
+[![jmchor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmchor)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Coding projects
 
 ### Most recent work
