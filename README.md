@@ -10,9 +10,9 @@
 
 ## Hi, I'm Johannes
 
-I (he/him) am a **developer-in-progress** - I found my passion in coding and I'm working on my knowledge base of MERN stack web applications.
+I (he/him) am a fullstack React developer - I found my passion in coding and I'm working based on the MERN stack but branching out (looking at you, GraphQL!)
 
-Currently I'm mostly focused on study projects but as a *learning-by-tweaking* type of person I like to write and test code in various environments (like [these](#coding-projects))
+After finishing my bootcamp as web developer I am currently focused on creating apps that scratch my own itch.
 
 ## Coding projects
 
@@ -24,6 +24,10 @@ Currently I'm mostly focused on study projects but as a *learning-by-tweaking* t
     <th span="col">Description</th>
   </thead>
   <tbody>
+  <tr>
+      <th span="row"><a href="https://github.com/nncht/association_client">/useum</a></th>
+      <td>A study web app project utilizing the MERN stack</td>
+    </tr>
     <tr>
       <th span="row"><a href="https://github.com/jmchor/activity_logger">Taskmeister</a></th>
       <td>A study web app project using MongoDB, Node.js and Express</td>
