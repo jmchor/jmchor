@@ -25,6 +25,10 @@ After finishing my bootcamp as web developer I am currently focused on creating 
   </thead>
   <tbody>
   <tr>
+      <th span="row"><a href="https://github.com/jmchor/drumrecords_front">drumRecords</a></th>
+      <td>A side project embedding Instagram videos for drum exercises</td>
+    </tr>
+  <tr>
       <th span="row"><a href="https://github.com/nncht/association_client">/useum</a></th>
       <td>A study web app project utilizing the MERN stack</td>
     </tr>
