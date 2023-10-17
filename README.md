@@ -29,7 +29,6 @@ After finishing my bootcamp as web developer I am currently focused on creating 
       <td>A relaunch of my blog using Hugo</td>
     </tr>
   <tr>
-  <tr>
       <th span="row"><a href="https://github.com/jmchor/drumrecords_front">drumRecords</a></th>
       <td>A side project embedding Instagram videos for drum exercises</td>
     </tr>
