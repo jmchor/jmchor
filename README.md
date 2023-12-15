@@ -24,6 +24,10 @@ After finishing my bootcamp as web developer I am currently focused on creating 
     <th span="col">Description</th>
   </thead>
   <tbody>
+  <tr>
+      <th span="row"><a href="https://github.com/jmchor/reactitory">auditory</a></th>
+      <td>A music database project using React, Postgres and the Spotify API</td>
+    </tr>
     <tr>
       <th span="row"><a href="https://github.com/jmchor/papertrail">papertrail</a></th>
       <td>A relaunch of my blog using Hugo</td>
