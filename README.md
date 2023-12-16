@@ -3,7 +3,7 @@
 <a href="mailto:jchorzempa@posteo.org"><img src="https://img.shields.io/badge/Email-jchorzempa%40posteo.org-green" alt=""></img></a>
 <a href="https://papertrail.jmchor.dev/"><img src="https://img.shields.io/badge/Read-Blog-informational" alt=""></img></a>
 <a href="https://jmchor.dev"><img src="https://img.shields.io/badge/website-live-success" alt=""></img></a>
-<a href="https://useum.netlify.app"><img src="https://img.shields.io/badge/Current%20project-/useum-blueviolet" alt=""></img></a>
+<a href="https://github.com/jmchor/reactitory"><img src="https://img.shields.io/badge/Current%20project-auditory-blueviolet" alt=""></img></a>
 <a href="#"><img src="https://img.shields.io/badge/focus%20on-React-cyan" alt=""></img></a>
 
 </div>
