@@ -10,9 +10,11 @@
 
 ## Hi, I'm Johannes
 
-I (he/him) am a fullstack React developer - I found my passion in coding and I'm working based on the MERN stack but branching out (looking at you, GraphQL!)
+I (he/him) am a fullstack developer - I found my passion in coding and I'm working in the JavaScript world. My wheelhouse is React & Node (which is why all of my apps are written using some form of React and Node), and all of my coding projects serve two purposes: 
+- scratching my own itch in some way
+- learning web technologies in a practical, hands-on manner
 
-After finishing my bootcamp as web developer I am currently focused on creating apps that scratch my own itch.
+A cultural anthropologist by trade, I finished a bootcamp (MERN stack) in April '23 and made coding be the center of my working life. And I'm very happy that I did - you can see my ideas come to life below!
 
 ## Coding projects
 
@@ -24,6 +26,10 @@ After finishing my bootcamp as web developer I am currently focused on creating 
     <th span="col">Description</th>
   </thead>
   <tbody>
+     <tr>
+      <th span="row"><a href="https://github.com/jmchor/boilerplate_frontend">Boilerplate</a></th>
+      <td>A web app for setting up JavaScript coding projects in your local dev environment</td>
+    </tr>
   <tr>
       <th span="row"><a href="https://github.com/jmchor/reactitory">auditory</a></th>
       <td>A music database project using React, Postgres and the Spotify API</td>
