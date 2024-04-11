@@ -10,7 +10,8 @@
 
 ## Hi, I'm Johannes
 
-I (he/him) am a fullstack developer - I found my passion in coding and I'm working in the JavaScript world. My wheelhouse is React & Node (which is why all of my apps are written using some form of React and Node), and all of my coding projects serve two purposes: 
+I (he/him) am a fullstack developer - I found my passion in coding and I'm working in the JavaScript world. My wheelhouse is React & Node (which is why all of my apps are written using some form of React and Node), and all of my coding projects serve two purposes:
+
 - scratching my own itch in some way
 - learning web technologies in a practical, hands-on manner
 
@@ -26,6 +27,10 @@ A cultural anthropologist by trade, I finished a bootcamp (MERN stack) in April 
     <th span="col">Description</th>
   </thead>
   <tbody>
+  <tr>
+      <th span="row"><a href="https://github.com/jmchor/english-explorers-website">English Explorers Website</a></th>
+      <td>A static website written in React using NextJS</td>
+    </tr>
      <tr>
       <th span="row"><a href="https://github.com/jmchor/boilerplate_frontend">Boilerplate</a></th>
       <td>A web app for setting up JavaScript coding projects in your local dev environment</td>
